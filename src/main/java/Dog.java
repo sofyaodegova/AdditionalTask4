@@ -1,5 +1,4 @@
 public class Dog implements Runnable {
-
     public void run() {
         System.out.println("Собачка бежит!");
     }
